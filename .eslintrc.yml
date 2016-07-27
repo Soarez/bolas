@@ -1,0 +1,4 @@
+env:
+  commonjs: true
+  browser: true
+extends: eslint:recommended

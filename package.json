@@ -1,0 +1,20 @@
+{
+  "name": "bolas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "lint": "eslint",
+    "dev": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.1.1"
+  }
+}
